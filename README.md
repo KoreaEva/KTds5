@@ -2,6 +2,8 @@
 
 ## Daily 교육자료.
 
+[MVP 프로젝트 기획안 제출 링크](https://forms.office.com/Pages/ResponsePage.aspx?id=XT_QeNYMbE-DsAcSKVBTah7_FeUXUvlKjmvZAaBbj2lUNElUQVc1OExVNlRUM1ZBUDNYREgyU0IxSC4u)
+
 [<Day 4> Azure OpenAI 사용법 외 Streamlit 웹 개발](./Day%204/README.md)
 
 [<Day 5> Azure Web App, Storage, NLP ](./Day%205/README.md)
